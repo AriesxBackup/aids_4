@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-3d",
+  "version": "1.0.0",
+  "description": "3D Portfolio - BTech AI & DS Student at Poornima University",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python -m http.server 8000",
+    "start": "python -m http.server 8000"
+  },
+  "keywords": [
+    "portfolio",
+    "3d",
+    "threejs",
+    "webgl",
+    "student",
+    "ai",
+    "data-science"
+  ],
+  "author": "Aries",
+  "license": "MIT"
+}
+
